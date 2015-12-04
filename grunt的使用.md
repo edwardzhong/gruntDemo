@@ -41,12 +41,12 @@
 	npm install
 
 ####4.比较常用的几个插件
-*grunt-contrib-uglify：压缩js代码
-*grunt-contrib-concat：合并js文件
-*grunt-contrib-cssmin：css压缩合并
-*grunt-contrib-htmlmin：html文件压缩
-*grunt-contrib-jshint：js代码检查
-*grunt-contrib-watch：监控文件修改并重新执行注册的任务
+* grunt-contrib-uglify：压缩js代码
+* grunt-contrib-concat：合并js文件
+* grunt-contrib-cssmin：css压缩合并
+* grunt-contrib-htmlmin：html文件压缩
+* grunt-contrib-jshint：js代码检查
+* grunt-contrib-watch：监控文件修改并重新执行注册的任务
 
 常用插件列表：https://github.com/edwardzhong/grunt-contrib
 
