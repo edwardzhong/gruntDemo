@@ -1,7 +1,7 @@
 ###关于前端自动化工具grunt的使用
 
-*grunt参考文档：http://www.gruntjs.net/
-*演示项目已经放到github上：https://github.com/edwardzhong/gruntDemo 
+* grunt参考文档：http://www.gruntjs.net/
+* 演示项目已经放到github上：https://github.com/edwardzhong/gruntDemo 
 
 ####1.环境：
 操作系统：win
