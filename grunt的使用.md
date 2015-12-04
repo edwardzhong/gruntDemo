@@ -1,7 +1,7 @@
 ###关于前端自动化工具grunt的使用
 
-*参考文档：http://www.gruntjs.net/
-*演示项目已经放到github上：https://github.com/edwardzhong/gruntDemo
+*grunt参考文档：http://www.gruntjs.net/
+*演示项目已经放到github上：https://github.com/edwardzhong/gruntDemo 
 
 ####1.环境：
 操作系统：win
@@ -99,9 +99,9 @@
 	grunt cssmin 	//直接执行指定插件的任务
 	grunt build  	//执行build任务
 
-####7.相关的自动化和模块管理工具 
+####7.相关的自动化和模块管理工具
 
-*gulp：类似于grunt，使用方式更加方便和简单，但插件没有grunt丰富
-*bower：前端包管理器
-*webpack：类似于bower的前端模块管理工具
+* gulp:类似于grunt，使用方式更加方便和简单，但插件没有grunt丰富
+* bower:前端包管理器
+* webpack:类似于bower的前端模块管理工具
 
